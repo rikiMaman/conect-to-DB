@@ -1,0 +1,14 @@
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\bin\Debug\net6.0\Store.Model.deps.json
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\bin\Debug\net6.0\Store.Model.runtimeconfig.json
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\bin\Debug\net6.0\Store.Model.dll
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\bin\Debug\net6.0\Store.Model.pdb
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\Store.Model.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\Store.Model.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\Store.Model.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\Store.Model.AssemblyInfo.cs
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\Store.Model.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\Store.Model.dll
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\refint\Store.Model.dll
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\Store.Model.pdb
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\Store.Model.genruntimeconfig.cache
+Y:\Groups\Group_2\ממן  רבקה\דוטנט\Lesson6\Store.Model\obj\Debug\net6.0\ref\Store.Model.dll
